@@ -1,0 +1,1 @@
+g++ mongo.cpp -o mongoclient -I /opt/clienttest/mongoclient/mongodb-src-r1.8.1  -lboost_thread -lboost_filesystem -lboost_program_options -L/opt/clienttest/mongoclient/mongodb-src-r1.8.1 -lmongoclient

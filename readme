@@ -1,0 +1,4 @@
+###########
+this is 363 machine
+example include mysqlclient,mongodbclient,redisclient,motionserverclient,sshtunnel,xmltest
+#################

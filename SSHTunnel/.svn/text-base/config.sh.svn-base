@@ -1,0 +1,6 @@
+#! /bin/sh
+RemoteIp=60.12.182.102
+RemotePort=50000
+LocalIp=127.0.0.1
+LocalPort=22
+AliveInterval=10
